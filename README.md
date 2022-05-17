@@ -2,22 +2,19 @@
 
 ## Description 
   Welcome to my *PORTFOLIO* within you'll find many resources about me and my past/present projects.
- You can visit the deplyed link [here.](https://krystopherq.github.io/redesigned-portfolio/)
+  You can visit the deplyed link [here.](https://krystopherq.github.io/redesigned-portfolio/index.html)
             
 ## Table of Contents
- * [Navigation](#navigatio)         
  * [Usage](#usage)
  * [Questions](#questions)
  * [License](#license)
             
 
 
-## Navigation
-    Selecting my name at the top will bring you to the landing page. At the top right corner of the site there is a profile picture. Select it and a drop down menu will appear with the options for Resume, Portfolio, and Contact. Select one and you will be directed to a new tab with the selected information.
- ![NavBar]()
-
 ## Usage 
-    
+   Selecting my name at the top will bring you to the landing page. At the top right corner of the site there is a profile picture. Select it and a drop down menu will appear with the options for Resume, Portfolio, and Contact. Select one and you will be directed to a new tab with the selected information.
+ 
+ ![DEMO](./assets/demo.gif)
             
             
 ## License
