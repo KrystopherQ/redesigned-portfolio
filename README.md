@@ -1,4 +1,4 @@
-# redesigned-portfolio
+# Redesigned Portfolio
 
 ## Description 
   Welcome to my *PORTFOLIO* within you'll find many resources about me and my past/present projects.
